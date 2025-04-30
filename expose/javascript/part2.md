@@ -33,4 +33,5 @@
 15.
 16. See .js file
 17. The result comes out as [2, 4, 6]. Basically, what happened was Line 13 called the modifyArray function with the doSomething function in its 'callback' parameter. The input array first goes through the modifyArray loop, incrementally being doubled via doSomething and then having that new number being pushed onto a new array.
-18. 
+18. See .js file
+19. The output comes out as '1', '4', '3', with '2' being put out in the console a second later. '1' and '4' came out first since there was no timeout set for them.
