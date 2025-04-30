@@ -9,3 +9,20 @@
 9. Line 11 puts out a ReferenceError reading 'i is not defined'.
 10. Line 12 puts out '3' as there are 3 elements in the input 'prices' array.
 11. The function outputs the array [50, 100, 150]
+12A. student.name
+12B. student["Grad Year"]
+
+13A. 32
+13B. 1
+13C. 3
+13D. 4
+13E. 0
+13F. '3undefined'
+13G. NaN
+
+14A. True
+14B. False
+14C. True
+14D. False
+14E. False
+14F. True
